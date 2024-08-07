@@ -31,7 +31,7 @@ systems:
       hostname: LeNiX
       os: linux
       user:
-        email: wrighterik77@gmail.com
+        email: 
         name: Erik Wright
         ssh_private_key_file: ""
         ssh_public_key_file: ""
